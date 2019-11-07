@@ -13,8 +13,15 @@
 * `\ef my_function_name`
 
 ## List All Relations
+`\d`
+
+## List One Relation
+* `\d public.my_relation_name`
+* `\d my_relation_name`
+
+## List All Tables
 `\dt`
 
 ## List One Relation
-* `\dt public.my_relation_name`
-* `\dt my_relation_name`
+* `\dt public.my_table_name`
+* `\dt my_table_name`
