@@ -1,7 +1,12 @@
 # Postgres Cheatsheet
 
 ## List All Databases
-`\l`
+* `\l`
+* `\list`
+
+## Switch Database
+* `\c database_name`
+* `\connect database_name`
 
 ## List All Functions
 `\df`
