@@ -1,5 +1,8 @@
 # Postgres Cheatsheet
 
+## List All Databases
+`\l`
+
 ## List All Functions
 `\df`
 
