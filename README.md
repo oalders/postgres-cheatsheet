@@ -23,6 +23,8 @@
 ## List All Relations
 `\d`
 
+Note that `\d` without a pattern argument (as above) is equivalent to `\dtvs`
+
 ## List One Relation
 * `\d public.my_relation_name`
 * `\d my_relation_name`
@@ -35,6 +37,14 @@
 * `\dt *ends_with`
 * `\dt *contains*`
 
+## List All Tables, Views and Sequences
+* `\dtvs`
+* `\d` (See "List All Relations")
+
 ## List One Relation
 * `\dt public.my_table_name`
 * `\dt my_table_name`
+
+## Quit
+* `\q`
+* `\quit`
