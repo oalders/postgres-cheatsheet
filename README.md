@@ -4,6 +4,11 @@
 * `\l`
 * `\list`
 
+### With additional columns
+
+* `\l+`
+* `\list+`
+
 ## Connect to Database
 * `\c database_name`
 * `\connect database_name`
