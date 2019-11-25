@@ -4,7 +4,7 @@
 * `\l`
 * `\list`
 
-## Switch Database
+## Connect to Database
 * `\c database_name`
 * `\connect database_name`
 
