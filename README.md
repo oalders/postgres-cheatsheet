@@ -30,6 +30,11 @@
 ## List All Tables
 `\dt`
 
+## List All Tables Matching a Pattern
+* `\dt starts_with*`
+* `\dt *ends_with`
+* `\dt *contains*`
+
 ## List One Relation
 * `\dt public.my_table_name`
 * `\dt my_table_name`
