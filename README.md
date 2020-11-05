@@ -14,6 +14,7 @@
 * [List All Tables Matching a Pattern](#list-all-tables-matching-a-pattern)
 * [List All Tables, Views and Sequences](#list-all-tables-views-and-sequences)
 * [List One Relation](#list-one-relation-1)
+* [Display Privileges](#display-privileges)
 * [Quit](#quit)
 
 <!-- vim-markdown-toc -->
@@ -67,6 +68,9 @@ Note that `\d` without a pattern argument (as above) is equivalent to `\dtvs`
 ## List One Relation
 * `\dt public.my_table_name`
 * `\dt my_table_name`
+
+## Display Privileges
+* `\z my_relation_name`
 
 ## Quit
 * `\q`
