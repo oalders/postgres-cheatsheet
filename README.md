@@ -1,4 +1,22 @@
 # Postgres Cheatsheet
+:
+<!-- vim-markdown-toc GFM -->
+
+* [List All Databases](#list-all-databases)
+  * [With additional columns](#with-additional-columns)
+* [Connect to Database](#connect-to-database)
+* [List All Functions](#list-all-functions)
+* [List One Function](#list-one-function)
+* [Read and/or Edit Function Definition](#read-andor-edit-function-definition)
+* [List All Relations](#list-all-relations)
+* [List One Relation](#list-one-relation)
+* [List All Tables](#list-all-tables)
+* [List All Tables Matching a Pattern](#list-all-tables-matching-a-pattern)
+* [List All Tables, Views and Sequences](#list-all-tables-views-and-sequences)
+* [List One Relation](#list-one-relation-1)
+* [Quit](#quit)
+
+<!-- vim-markdown-toc -->
 
 ## List All Databases
 * `\l`
