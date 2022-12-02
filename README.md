@@ -5,6 +5,7 @@
 * [List All Databases](#list-all-databases)
     * [With additional columns](#with-additional-columns)
 * [Connect to Database](#connect-to-database)
+    * [Show Connection Info](#show-connection-info)
 * [List All Functions](#list-all-functions)
 * [List One Function](#list-one-function)
 * [Read and/or Edit Function Definition](#read-andor-edit-function-definition)
@@ -33,6 +34,10 @@
 
 * `\c database_name`
 * `\connect database_name`
+
+### Show Connection Info
+
+* `\conninfo`
 
 ## List All Functions
 
